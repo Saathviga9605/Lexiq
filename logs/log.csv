@@ -1,0 +1,7 @@
+timestamp,prompt,model,latency_sec,token_count
+2025-07-13T23:21:47.429262,what is ai,mistral,3.226,92
+2025-07-13T23:26:30.964042,who are bts?,mixtral,4.841,170
+2025-07-13T23:29:19.991995,explain fine tuning,mixtral,7.888,436
+2025-07-13T23:29:45.229172,what is sliding window approach?,mistral,6.305,362
+2025-07-13T23:30:12.105801,give me code for bfs in java,mixtral,9.464,250
+2025-07-13T23:30:57.846366,who is the prime minister of india?,mistral,3.492,42
