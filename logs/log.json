@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2025-07-13T23:21:47.429262",
+    "prompt": "what is ai",
+    "model": "mistral",
+    "latency_sec": 3.226,
+    "token_count": 92
+  },
+  {
+    "timestamp": "2025-07-13T23:26:30.964042",
+    "prompt": "who are bts?",
+    "model": "mixtral",
+    "latency_sec": 4.841,
+    "token_count": 170
+  },
+  {
+    "timestamp": "2025-07-13T23:32:07.002317",
+    "prompt": "who is the prime minister of india?",
+    "model": "mistral",
+    "latency_sec": 2.955,
+    "token_count": 33
+  },
+  {
+    "timestamp": "2025-07-13T23:32:18.582117",
+    "prompt": "explain fine tuning",
+    "model": "mistral",
+    "latency_sec": 4.99,
+    "token_count": 248
+  },
+  {
+    "timestamp": "2025-07-13T23:32:33.463929",
+    "prompt": "give me code for bfs in java",
+    "model": "mixtral",
+    "latency_sec": 9.194,
+    "token_count": 365
+  },
+  {
+    "timestamp": "2025-07-13T23:32:46.293732",
+    "prompt": "what is sliding window approach",
+    "model": "mistral",
+    "latency_sec": 6.482,
+    "token_count": 264
+  }
+]
